@@ -13,8 +13,8 @@ int main()
         n = n / 10;
     }
     if(original == reverse)
-    printf("Palidrome Number");
+    printf("Palindrome Number");
     else
-    printf("Not a Palimdrome Number");
+    printf("Not a Palindrome Number");
     return 0;
 }
