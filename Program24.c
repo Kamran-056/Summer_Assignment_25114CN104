@@ -3,7 +3,7 @@ int main()
 {
     int x, n;
     long long result = 1;
-
+    
     printf("Enter base (x): ");
     scanf("%d", &x);
     printf("Enter power (n): ");

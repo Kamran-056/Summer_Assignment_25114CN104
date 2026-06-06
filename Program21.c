@@ -5,6 +5,7 @@ int main()
     printf("Enter a decimal number: ");
     scanf("%d", &n);
     while (n > 0)
+    
     {
         binary[i] = n % 2;
         n = n / 2;

@@ -3,7 +3,6 @@ int main()
 {
     long long binary;
     int decimal = 0, base = 1, rem;
-
     printf("Enter a binary number: ");
     scanf("%lld", &binary);
 
